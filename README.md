@@ -1,19 +1,8 @@
-# gpu
+# gpuMonitor
+入口（需在校园网环境下进入）：https://gpushare.xkl505.top/
 
-## Project setup
-```
-npm install
-```
+项目背景：用于展示服务器硬盘内存使用情况，gpu显卡显存占用情况
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+部分展示页面
+![image](https://github.com/user-attachments/assets/afc614b9-5792-4962-a743-4cf481f4d967)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
